@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/sendMessage",
+      "destination": "/api/sendMessage.js"
+    }
+  ]
+}
